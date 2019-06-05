@@ -2,7 +2,7 @@ package com.suns.blockchainj.net.base;
 
 /**
  * 服务器响应 VO
- * @author yangjian
+ * @author suns
  * @since 2018-04-19 下午10:13.
  */
 public class ServerResponseVo {

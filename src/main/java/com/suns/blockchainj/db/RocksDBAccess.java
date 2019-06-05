@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  * RocksDB 操作封装
- * @author yangjian
+ * @author suns
  * @since 18-4-10
  */
 @Component

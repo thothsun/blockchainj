@@ -2,7 +2,7 @@ package com.suns.blockchainj.enums;
 
 /**
  * 交易状态枚举
- * @author yangjian
+ * @author suns
  * @since 18-4-16
  */
 public enum  TransactionStatusEnum {

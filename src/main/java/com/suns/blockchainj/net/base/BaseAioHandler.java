@@ -14,7 +14,7 @@ import java.nio.ByteBuffer;
 
 /**
  * 抽象的  AioHandler, 消息编码，解码的通用实现
- * @author yangjian
+ * @author suns
  * @since 18-4-17
  */
 public abstract class BaseAioHandler {

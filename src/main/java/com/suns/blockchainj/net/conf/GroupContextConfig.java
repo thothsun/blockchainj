@@ -13,7 +13,7 @@ import org.tio.server.ServerGroupContext;
 
 /**
  * Group context 配置
- * @author yangjian
+ * @author suns
  * @since 18-4-18
  */
 @Configuration

@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 发送交易事件监听器
- * @author yangjian
+ * @author suns
  * @since 18-4-19
  */
 @Component

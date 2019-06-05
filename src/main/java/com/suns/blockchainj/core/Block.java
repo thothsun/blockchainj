@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 区块
- * @author yangjian
+ * @author suns
  * @since 18-4-6
  */
 public class Block implements Serializable {

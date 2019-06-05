@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * RocksDB 配置参数
- * @author yangjian
+ * @author suns
  * @since 2018-04-21 下午4:14.
  */
 @Configuration

@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 
 /**
  * 交易事件
- * @author yangjian
+ * @author suns
  */
 public class SendTransactionEvent extends ApplicationEvent {
 

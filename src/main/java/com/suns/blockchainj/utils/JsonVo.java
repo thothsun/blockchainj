@@ -2,7 +2,7 @@ package com.suns.blockchainj.utils;
 
 /**
  * 返回 Json 字符串 VO
- * @author yangjian
+ * @author suns
  * @since 2018-04-07 上午10:56.
  */
 public class JsonVo {

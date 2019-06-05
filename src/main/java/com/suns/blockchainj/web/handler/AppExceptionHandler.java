@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 全局异常捕获处理类
- * @author yangjian
+ * @author suns
  */
 @ControllerAdvice
 public class AppExceptionHandler {

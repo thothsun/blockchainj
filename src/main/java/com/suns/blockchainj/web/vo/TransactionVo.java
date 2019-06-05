@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * 发送交易参数 VO
- * @author yangjian
+ * @author suns
  * @since 18-4-13
  */
 public class TransactionVo {

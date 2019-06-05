@@ -15,7 +15,7 @@ import java.security.spec.X509EncodedKeySpec;
 
 /**
  * 签名工具类
- * @author yangjian
+ * @author suns
  * @since 18-4-10
  */
 public class SignUtils {

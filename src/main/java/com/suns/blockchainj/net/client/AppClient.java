@@ -26,7 +26,7 @@ import java.util.List;
 
 /**
  * 客户端启动程序
- * @author yangjian
+ * @author suns
  *
  */
 @Component
@@ -52,6 +52,7 @@ public class AppClient {
 		aioClient = new AioClient(clientGroupContext);
 		//加载数据库中的节点数据
 		Optional<List<Node>> nodeList = dbAccess.getNodeList();
+		logger.info("数据库中的节点："+nodeList.toString());
 		List<Node> nodes = null;
 		if (nodeList.isPresent()) {
 			nodes = nodeList.get();

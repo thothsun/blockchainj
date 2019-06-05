@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 数据库操作接口
- * @author yangjian
+ * @author suns
  * @since 18-4-10
  */
 public interface DBAccess {

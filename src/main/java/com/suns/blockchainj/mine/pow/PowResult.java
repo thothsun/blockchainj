@@ -4,7 +4,7 @@ import java.math.BigInteger;
 
 /**
  * PoW 计算结果
- * @author yangjian
+ * @author suns
  */
 public class PowResult {
 

@@ -25,7 +25,7 @@ import java.util.List;
 
 /**
  * 服务端 AioHandler 实现
- * @author yangjian
+ * @author suns
  */
 @Component
 public class AppServerAioHandler extends BaseAioHandler implements ServerAioHandler {

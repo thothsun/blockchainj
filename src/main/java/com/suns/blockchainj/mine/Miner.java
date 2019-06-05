@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 
 /**
  * 挖矿接口
- * @author yangjian
+ * @author suns
  * @since 2018-04-07 下午8:13.
  */
 public interface Miner {

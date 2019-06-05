@@ -2,7 +2,7 @@ package com.suns.blockchainj.net.base;
 
 /**
  * Packet 消息类别, 请求为正数，响应为负数
- * @author yangjian
+ * @author suns
  * @since 18-4-19
  */
 public interface MessagePacketType {

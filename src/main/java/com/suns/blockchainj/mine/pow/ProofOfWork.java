@@ -9,7 +9,7 @@ import java.math.BigInteger;
 
 /**
  * 工作量证明实现
- * @author yangjian
+ * @author suns
  */
 public class ProofOfWork {
 

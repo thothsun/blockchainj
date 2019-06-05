@@ -21,7 +21,7 @@ import java.util.List;
 
 /**
  * 客户端 AioHandler 实现
- * @author yangjian
+ * @author suns
  */
 @Component
 public class AppClientAioHandler extends BaseAioHandler implements ClientAioHandler {

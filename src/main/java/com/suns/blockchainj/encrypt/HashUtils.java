@@ -4,7 +4,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 
 /**
  * hash 工具类
- * @author yangjian
+ * @author suns
  * @since 2018-04-07 下午8:32.
  */
 public class HashUtils {

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 区块数据
- * @author yangjian
+ * @author suns
  * @since 18-4-8
  */
 public class BlockBody implements Serializable {

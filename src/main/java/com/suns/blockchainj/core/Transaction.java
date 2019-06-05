@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 
 /**
  * 交易对象
- * @author yangjian
+ * @author suns
  * @since 18-4-6
  */
 public class Transaction {

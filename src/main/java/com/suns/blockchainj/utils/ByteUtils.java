@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 /**
  * 数组工具
- * @author yangjian
+ * @author suns
  * @since 18-4-9
  */
 public class ByteUtils {

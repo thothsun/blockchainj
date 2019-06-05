@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * PoW 挖矿算法实现
- * @author yangjian
+ * @author suns
  * @since 18-4-13
  */
 @Component

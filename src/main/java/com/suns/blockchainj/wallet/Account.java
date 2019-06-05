@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 
 /**
  * 钱包账户
- * @author yangjian
+ * @author suns
  * @since 18-4-6
  */
 public class Account implements Serializable {

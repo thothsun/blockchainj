@@ -23,7 +23,7 @@ import java.util.Map;
 
 /**
  * http 请求工具类
- * @author yangjian
+ * @author suns
  */
 public class HttpUtils {
 

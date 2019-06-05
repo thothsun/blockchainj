@@ -4,7 +4,7 @@ import org.tio.core.intf.Packet;
 
 /**
  * 网络消息数据包
- * @author yangjian
+ * @author suns
  */
 public class MessagePacket extends Packet {
 

@@ -7,7 +7,7 @@ import java.math.BigInteger;
 
 /**
  * 区块头
- * @author yangjian
+ * @author suns
  * @since 18-4-6
  */
 public class BlockHeader implements Serializable {

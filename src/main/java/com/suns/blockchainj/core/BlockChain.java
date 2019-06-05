@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 区块链主类
- * @author yangjian
+ * @author suns
  * @since 18-4-6
  */
 @Component

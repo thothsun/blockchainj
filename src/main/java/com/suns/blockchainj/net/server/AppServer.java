@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * 服务端启动程序
- * @author yangjian
+ * @author suns
  */
 @Component
 public class AppServer {

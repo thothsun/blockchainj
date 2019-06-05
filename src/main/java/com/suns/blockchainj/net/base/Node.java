@@ -3,7 +3,7 @@ package com.suns.blockchainj.net.base;
 import java.io.Serializable;
 
 /**
- * @author yangjian
+ * @author suns
  * @since 18-4-18
  */
 public class Node extends org.tio.core.Node implements Serializable {

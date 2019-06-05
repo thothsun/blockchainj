@@ -17,7 +17,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 区块事件监听器
- * @author yangjian
+ * @author suns
  * @since 18-4-19
  */
 @Component

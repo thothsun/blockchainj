@@ -2,7 +2,7 @@ package com.suns.blockchainj.constants;
 
 /**
  * 加密算法用到的常量
- * @author yangjian
+ * @author suns
  * @since 18-4-8
  */
 public interface EncryptConstants {

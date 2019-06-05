@@ -14,7 +14,7 @@ import java.util.Arrays;
 
 /**
  * 钱包工具类
- * @author yangjian
+ * @author suns
  * @since 18-4-8
  */
 public class WalletUtils {

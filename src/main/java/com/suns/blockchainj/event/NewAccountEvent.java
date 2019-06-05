@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 
 /**
  * 创建账户事件
- * @author yangjian
+ * @author suns
  */
 public class NewAccountEvent extends ApplicationEvent {
 

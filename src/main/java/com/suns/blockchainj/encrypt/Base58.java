@@ -13,7 +13,7 @@ import java.util.Arrays;
 
 /**
  * Base58 编码算法实现
- * @author yangjian
+ * @author suns
  */
 public class Base58 {
 

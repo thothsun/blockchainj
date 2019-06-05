@@ -1,6 +1,6 @@
 package com.suns.blockchainj.net.server;
 
-import com.aizone.blockchain.net.conf.TioProperties;
+import com.suns.blockchainj.net.conf.TioProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.tio.server.AioServer;
